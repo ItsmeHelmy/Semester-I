@@ -1,2 +1,2 @@
-# Semester-II
-Java Algorithms and Data Structure plus GUI Application for my 2nd semester in college
+# Semester-I
+Python basic logic and program for my first semester in logic of programming class
